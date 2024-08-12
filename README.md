@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prethivi1608
-- 👀 I’m interested in Data science and Business analytics
-- 🌱 I’m currently learning Data science
+- 👀 I’m a robotics engineer
 - 💞️ I’m looking to collaborate on @Prethivi1608
 - 📫 How to reach me prethiviraj@gmail.com
 
