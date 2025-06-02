@@ -1,6 +1,6 @@
 # Hi there, I'm Prethiviraj 👋
 
-🚀 **Robotics Engineer & Student**  
+🚀 **Robotics Engineer**
 🔧 Skilled in **Python, ROS2, ROS, Embedded C/C++**  
 🤖 Passionate about **Robotics Control, OOP, Path Planning, and Smart Factories**  
 🛠️ Maker: 3D Printing & Building Robots
@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student and Robotics Enthusiast
+- 🎓 Robotics Engineer
 - 🤖 Building robots and smart automation solutions
-- 💡 Interested in path planning, advanced robotics control, and smart manufacturing
+- 💡 Interested in path planning, advanced robotics control.
 - 🖨️ Love to design and 3D print robot parts
 
 ---
